@@ -9,9 +9,11 @@ How to use?
 Say example:
 >$mcphp = new mcphp();
 >$mcphp->say("Hi!", "localhost", 200);
+
 Command example:
 >$mcphp = new mcphp();
 >$mcphp->say("ban example", "localhost", 200);
+
 Give example:
 >$mcphp = new mcphp();
 >$mcphp->say("MattRep", "stone", 64, "localhost", 200);
