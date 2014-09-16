@@ -12,8 +12,8 @@ Minecraft PHP Connect
 
 >Command example:
 >>$mcphp = new mcphp();
->>$mcphp->say("ban example", "localhost", 200);
+>>$mcphp->command("ban example", "localhost", 200);
 
 >Give example:
 >>$mcphp = new mcphp();
->>$mcphp->say("MattRep", "stone", 64, "localhost", 200);
+>>$mcphp->give("MattRep", "stone", 64, "localhost", 200);
